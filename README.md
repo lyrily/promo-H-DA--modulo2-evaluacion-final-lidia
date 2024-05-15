@@ -1,4 +1,7 @@
 # promo-H-DA--modulo2-evaluacion-final-lidia
+Dentro de este repositorio publico viene la resolucion de la evaluacion final del modulo 2 de Adalab.
+Son una serie de ejercicios los cuales estan escritos en MySQL Workbench, ponen a prueba las destrezas aprendidas durante este modulo de SQL
+Los ejercicios se llevaran acabo dentro de la herramienta mencionada antes, dentro de la cual tenemos una base de datos llamada Sakila, que simula una tienda de alquiler de peliculas.
 Ejercicios:
 1. Selecciona todos los nombres de las películas sin que aparezcan duplicados.
 2. Muestra los nombres de todas las películas que tengan una clasificación de "PG-13".
